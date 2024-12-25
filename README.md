@@ -1,7 +1,6 @@
 # MSI Creator Pro 16 A1VKG 218PT
 
-Here you can find detailed specifications about my MSI Creator Pro 16. I will also share my findings, instructions, and other useful information about this laptop and my experience here.
-I am on ubuntu 24.10 with i3wm. 
+Here you can find detailed specifications about my MSI Creator Pro 16. I will also share my findings, instructions, and other useful information about this laptop and my experience here. I am using Ubuntu 24.10 with i3wm.
 
 ## Pros
 - Very powerful machine
