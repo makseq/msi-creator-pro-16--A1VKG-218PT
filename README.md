@@ -7,6 +7,7 @@ I am on ubuntu 24.10 with i3wm.
 - Very powerful machine
 - Good battery (about 5 hours of life with 20W per hour consumption and 100W battery)
 - Mostly silient (if you don't load it)
+- Lightweight ~2 kg + ~300g power adapter (7.4 cm x 16 cm x 2.5 cm). 
 
 ## Cons
 
