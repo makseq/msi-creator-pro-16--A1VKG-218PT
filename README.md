@@ -3,6 +3,15 @@
 Here you can find detailed specifications about my MSI Creator Pro 16. I will also share my findings, instructions, and other useful information about this laptop and my experience here.
 I am on ubuntu 24.10 with i3wm. 
 
+## Pros
+- Very powerful machine
+- Good battery (about 5 hours of life with 20W per hour consumption and 100W battery)
+
+## Cons
+
+- Terrible keyboard: [see video](https://www.youtube.com/watch?v=ivyszklO2wE), [see thread](https://forum-en.msi.com/index.php?threads%2Fmsi-creator-16-terrible-keyboard.407300%2F).
+  The keyboard is my biggest disappointment with this laptop. It is hard to type quickly, and the support says "the keyboard is functioning as intended, it is normal and does not present any issues", which is even more disappointing.
+
 ---
 
 # Specification
