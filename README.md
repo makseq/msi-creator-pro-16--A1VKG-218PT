@@ -432,7 +432,7 @@ Here you can find detailed specifications about my MSI Creator Pro 16. I will al
 
 <td class="field">nvme1n1</td>
 
-<td class="value"><span background="#cccccc" color="#010101">**Samsung**</span> Samsung SSD 960 EVO 1TB</td>
+<td class="value"><span background="#cccccc" color="#010101">**Samsung**</span> Samsung SSD 960 EVO 1TB [I installed it myself]</td>
 
 </tr>
 
