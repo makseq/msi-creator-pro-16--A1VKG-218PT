@@ -6,6 +6,7 @@ I am on ubuntu 24.10 with i3wm.
 ## Pros
 - Very powerful machine
 - Good battery (about 5 hours of life with 20W per hour consumption and 100W battery)
+- Mostly silient (if you don't load it)
 
 ## Cons
 
