@@ -13,6 +13,7 @@ Here you can find detailed specifications about my MSI Creator Pro 16. I will al
 
 - Terrible keyboard: [see video](https://www.youtube.com/watch?v=ivyszklO2wE), [see thread](https://forum-en.msi.com/index.php?threads%2Fmsi-creator-16-terrible-keyboard.407300%2F).
   The keyboard is my biggest disappointment with this laptop. It is hard to type quickly, and the support says "the keyboard is functioning as intended, it is normal and does not present any issues", which is even more disappointing.
+- Poor Linux compatibility with Intel WiFi 7 and Bluetooth. Power management does not work normally and leads to the laptop hanging and freezing.
 
 ---
 
